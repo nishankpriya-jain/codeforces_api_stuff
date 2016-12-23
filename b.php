@@ -57,4 +57,3 @@ print_r($got);
 
 echo "<br/>some stuff";
 ?>
-s
